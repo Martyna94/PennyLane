@@ -1,6 +1,12 @@
 * https://codebook.xanadu.ai/
+Usefull resource:
+* https://realpython.com/python-complex-numbers/
 * https://www.markdownguide.org/basic-syntax/
-* T.1 - Tutorial
+
+T.1 - Tutorial 
+Introduction
+    * I.1 
+
 
 
 
