@@ -2,6 +2,7 @@
 Usefull resource:
 * https://realpython.com/python-complex-numbers/
 * https://www.markdownguide.org/basic-syntax/
+* rendering math expression markdown https://markdownmonster.west-wind.com/docs/_59l0mv2uw.htm
 
 T.1 - Tutorial 
 Introduction
