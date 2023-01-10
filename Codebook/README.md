@@ -3,10 +3,24 @@ Usefull resource:
 * https://realpython.com/python-complex-numbers/
 * https://www.markdownguide.org/basic-syntax/
 * rendering math expression markdown https://markdownmonster.west-wind.com/docs/_59l0mv2uw.htm
+* rendering greece letter in markdown - https://rpruim.github.io/s341/S19/from-class/MathinRmd.html
+
+Codebook materials are split into two parts: challenge and textbook. Challenge part is included in this project.
+Textbook is included in the written notes.
 
 T.1 - Tutorial 
 Introduction
-    * I.1 
+* I.1
+* I.2
+* I.3
+* I.4
+* I.5
+* I.6 
+  * Describe the action of the RX gate and its matrix representation.
+  * Describe the action of the RY gate and its matrix representation.
+  * Represent qubit states in 3-dimensional space using the Bloch sphere.
+
+
 
 
 
