@@ -19,6 +19,11 @@ Introduction
   * Describe the action of the RX gate and its matrix representation.
   * Describe the action of the RY gate and its matrix representation.
   * Represent qubit states in 3-dimensional space using the Bloch sphere.
+* I.7
+  * Define what it means for a gate set to be universal for quantum computing. 
+  * State two universal gate sets for single-qubit quantum computation.
+* I.8
+  * Quantum state preparation - MottonenStatePreparation
 
 
 
