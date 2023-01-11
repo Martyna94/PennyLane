@@ -11,10 +11,25 @@ Textbook is included in the written notes.
 T.1 - Tutorial 
 Introduction
 * I.1
+  * Write down a mathematical description of a qubit state in two different notations.
+  * Define and give examples of what it means for a quantum system to be in a superposition of states.
+  * State the relationship between amplitudes and measurement outcome probabilities, and what it means for a state to be normalized.
+  * Explain how operations are mathematically applied to qubit states.
 * I.2
+  * Identify the different components of a quantum circuit (qubits, gates, and measurements).
+  * Translate between sequences of instructions and a quantum circuit.
+  * Define and calculate the depth of a quantum circuit.
 * I.3
+  * Define what it means for a matrix to be unitary.
+  * Express a single-qubit unitary operation in terms of 3 real parameters.
 * I.4
+  * Explain why we can understand how an operation works by applying it to the basis states.
+  * Describe the action of the X gate, its matrix representation, and eigenvalues.
+  * Describe the action of the Hadamard gate, its matrix representation, and eigenvalues.
 * I.5
+  * Global and relative phase 
+  * Describe the action of the RZ gate and its matrix representation.
+  * Identify 3 special cases of RZ.
 * I.6 
   * Describe the action of the RX gate and its matrix representation.
   * Describe the action of the RY gate and its matrix representation.
