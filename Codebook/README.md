@@ -39,6 +39,10 @@ Introduction
   * State two universal gate sets for single-qubit quantum computation.
 * I.8
   * Quantum state preparation - MottonenStatePreparation
+* I.9
+  * Define a projective measurement.
+  * Perform a projective measurement in the computational basis.
+  * Perform measurements in an alternative measurement basis.
 
 
 
