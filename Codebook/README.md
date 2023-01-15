@@ -41,8 +41,11 @@ Introduction
   * Quantum state preparation - MottonenStatePreparation
 * I.9
   * Define a projective measurement.
-  * Perform a projective measurement in the computational basis.
+  * Perform a projective measurement in the computational basis - inner product.
   * Perform measurements in an alternative measurement basis.
+* I.10
+  * Define an observable, and compute its possible measurement outcomes.
+  * Compute the expectation value of an observable.
 
 
 
