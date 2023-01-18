@@ -2,7 +2,7 @@
 Usefull resource:
 * https://realpython.com/python-complex-numbers/
 * https://www.markdownguide.org/basic-syntax/
-* rendering math expression markdown https://markdownmonster.west-wind.com/docs/_59l0mv2uw.htm
+
 * rendering greece letter in markdown - https://rpruim.github.io/s341/S19/from-class/MathinRmd.html
 
 Codebook materials are split into two parts: challenge and textbook. Challenge part is included in this project.
@@ -46,6 +46,9 @@ Introduction
 * I.10
   * Define an observable, and compute its possible measurement outcomes.
   * Compute the expectation value of an observable.
+* I 11
+  * Construct the state of a multi-qubit system using the tensor product.
+  * Define and apply separable operations to multiple qubits.
 
 
 
