@@ -49,6 +49,10 @@ Introduction
 * I 11
   * Construct the state of a multi-qubit system using the tensor product.
   * Define and apply separable operations to multiple qubits.
+* I 12
+  * Define and apply entangling operations to multi-qubit systems.
+  * Define the controlled-NOT (CNOT) gate, and write its matrix representation.
+  * Define and apply general controlled operations.
 
 
 
