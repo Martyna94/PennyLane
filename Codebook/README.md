@@ -61,6 +61,9 @@ Introduction
   * Single-qubit gate reference
   * Bell basis
   * CCZ and CCY using Toffoli gate
+* I 15
+  * Prove why we cannot design a quantum circuit that can clone arbitrary states.
+  * Describe the quantum teleportation protocol.
 
 
 
