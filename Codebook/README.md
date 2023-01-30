@@ -53,6 +53,9 @@ Introduction
   * Define and apply entangling operations to multi-qubit systems.
   * Define the controlled-NOT (CNOT) gate, and write its matrix representation.
   * Define and apply general controlled operations.
+* I 13
+  * Define and apply a set of common multi-qubit operations: the controlled-Z, Toffoli, and SWAP gates.
+  * Express common 3-qubit operations in terms of 1- and 2-qubit operations.
 
 
 
