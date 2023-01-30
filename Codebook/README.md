@@ -56,6 +56,11 @@ Introduction
 * I 13
   * Define and apply a set of common multi-qubit operations: the controlled-Z, Toffoli, and SWAP gates.
   * Express common 3-qubit operations in terms of 1- and 2-qubit operations.
+* I 14
+  * Multi-qubit gate reference
+  * Single-qubit gate reference
+  * Bell basis
+  * CCZ and CCY using Toffoli gate
 
 
 
