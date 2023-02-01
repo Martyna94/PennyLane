@@ -4,7 +4,9 @@
 * A 2
   * Explain the role of oracles in quantum algorithms.
   * Express the action of an oracle as a unitary matrix applied to computational basis states
-
+* A 3
+  * Describe how the oracle can be applied to a pair of candidate solutions to determine if the secret combination is present.
+  * Determine the average number of queries required to find a solution when testing in pairs.
 
 
 
