@@ -7,6 +7,9 @@
 * A 3
   * Describe how the oracle can be applied to a pair of candidate solutions to determine if the secret combination is present.
   * Determine the average number of queries required to find a solution when testing in pairs.
+* A 4
+  * Explain how global information and promises are useful for algorithm design.
+
 
 
 

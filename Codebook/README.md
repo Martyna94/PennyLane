@@ -12,3 +12,4 @@ C. Albornoz, G. Alonso, M. Andrenkov, P. Angara, A. Asadi, A. Ballon, S. Bapat, 
 Useful information:
 * `qml.probs(wires=range(n_bits))` - array[float]: Probabilities for observing different outcomes.
 * `qml.state()` - array[complex]: The state of the qubit after the operations.
+* all_states = [np.binary_repr(n, n_bits-1) for n in range(2**(n_bits-1))]
