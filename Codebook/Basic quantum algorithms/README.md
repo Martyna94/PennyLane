@@ -12,6 +12,9 @@
 * A 5
   * Define the Hadamard transform.
   * Understand the effect of applying an oracle between Hadamard transforms.
+* A 6
+  * Implement the Deutsch-Jozsa algorithm.
+  * Compare the algorithmic performance of Deutsch-Jozsa to deterministic and classically random strategies.
 
 
 
