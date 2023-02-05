@@ -9,6 +9,9 @@
   * Determine the average number of queries required to find a solution when testing in pairs.
 * A 4
   * Explain how global information and promises are useful for algorithm design.
+* A 5
+  * Define the Hadamard transform.
+  * Understand the effect of applying an oracle between Hadamard transforms.
 
 
 
