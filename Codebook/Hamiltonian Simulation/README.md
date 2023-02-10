@@ -5,3 +5,6 @@
 * H 3
   * Define a Hamiltonian and explain what it means with respect to a quantum system.
   * Compute unitary evolution for a simple, single-qubit physical system.
+* H 4
+  * Describe the utility of diagonalizing a Hamiltonian for simulation, and diagonalize a simple case.
+  * See how nontrivial computational problems can be encoded in ground states.
