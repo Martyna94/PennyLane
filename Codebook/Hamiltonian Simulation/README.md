@@ -8,3 +8,6 @@
 * H 4
   * Describe the utility of diagonalizing a Hamiltonian for simulation, and diagonalize a simple case.
   * See how nontrivial computational problems can be encoded in ground states.
+* H 5
+  * Derive the Trotter-Suzuki decomposition.
+  * Use Trotterization to simulate a simple physical system.
