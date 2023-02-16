@@ -18,3 +18,4 @@ Useful information:
 * `qml.Hamiltonian(coeffs, obs)` - qml.Hamiltonian: The Hamiltonian of the system.
 * `qml.draw(X_plus_Z)()`
 * `for index in range(2**k_bits): ctrl_str =  np.binary_repr(index, k_bits) # Create binary representation`
+* `qml.broadcast(qml.Hadamard, wires=[i for i in range(n_bits)], pattern="single")`
