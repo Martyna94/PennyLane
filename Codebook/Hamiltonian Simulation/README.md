@@ -11,3 +11,6 @@
 * H 5
   * Derive the Trotter-Suzuki decomposition.
   * Use Trotterization to simulate a simple physical system.
+* H 6
+  * Implement a linear combination of unitaries.
+  * 
