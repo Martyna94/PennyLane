@@ -16,6 +16,6 @@ Useful information:
 * `qml.state()` - array[complex]: The state of the qubit after the operations.
 * all_states = [np.binary_repr(n, n_bits-1) for n in range(2**(n_bits-1))]
 * `qml.Hamiltonian(coeffs, obs)` - qml.Hamiltonian: The Hamiltonian of the system.
-* `qml.draw(X_plus_Z)()`
+* `qml.draw(X_plus_Z)(), plt.show()`
 * `for index in range(2**k_bits): ctrl_str =  np.binary_repr(index, k_bits) # Create binary representation`
 * `qml.broadcast(qml.Hadamard, wires=[i for i in range(n_bits)], pattern="single")`
