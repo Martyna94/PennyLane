@@ -19,3 +19,4 @@ Useful information:
 * `qml.draw(X_plus_Z)(), plt.show()`
 * `for index in range(2**k_bits): ctrl_str =  np.binary_repr(index, k_bits) # Create binary representation`
 * `qml.broadcast(qml.Hadamard, wires=[i for i in range(n_bits)], pattern="single")`
+* `zero_vec = np.array([1] + [0]*(2**k_bits - 1))`
