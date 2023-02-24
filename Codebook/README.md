@@ -1,4 +1,5 @@
 * https://codebook.xanadu.ai/
+
 Useful resource:
 * https://discuss.pennylane.ai/
 * https://realpython.com/python-complex-numbers/
