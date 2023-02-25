@@ -26,6 +26,6 @@ Tutorial Challenges
 * One-Bit Wonder - 500 
 * Sqy Trotter - 100 - Implement the unitary evolution of a Hamiltonian using a quantum circuit.**TODO 
 * Unitary Operator and Beyond -200 - Apply a non-unitary operator to a quantum state. **TODO
-* Don't Hit the Ground - 300 
+* Don't Hit the Ground - 300  - Calculate the halr-life of an excited state at finite temperature.
 * Desperate Measures - 400 
 * Ising Uprising - 500
