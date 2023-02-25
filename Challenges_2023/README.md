@@ -27,5 +27,5 @@ Tutorial Challenges
 * Sqy Trotter - 100 - Implement the unitary evolution of a Hamiltonian using a quantum circuit.**TODO 
 * Unitary Operator and Beyond -200 - Apply a non-unitary operator to a quantum state. **TODO
 * Don't Hit the Ground - 300  - Calculate the halr-life of an excited state at finite temperature.
-* Desperate Measures - 400 
-* Ising Uprising - 500
+* Desperate Measures - 400 - Simulate the action of the Heisenberg Hamiltonian in the presence of noise.
+* Ising Uprising - 500 - Use the Variational Quantum Eigensolver to find the ground state of the Transverse Ising Model.
