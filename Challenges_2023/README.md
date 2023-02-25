@@ -24,8 +24,8 @@ Tutorial Challenges
 * A Pauli-Worded Problem -300 
 * Entangled Robot Swarms - 400 
 * One-Bit Wonder - 500 
-* Sqy Trotter - 100 
-* Unitary Operator and Beyond -200 
+* Sqy Trotter - 100 - Implement the unitary evolution of a Hamiltonian using a quantum circuit.**TODO 
+* Unitary Operator and Beyond -200 - Apply a non-unitary operator to a quantum state. **TODO
 * Don't Hit the Ground - 300 
 * Desperate Measures - 400 
 * Ising Uprising - 500
