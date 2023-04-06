@@ -15,3 +15,6 @@
   * Implement a linear combination of unitaries.
 * H7
   * Understand the action of SELECT and PREPARE oracles.
+* H*
+  * Explain the idea behind the Fast Fourier transform (FFT) algorithm.
+  * Describe the -th roots of unity.
